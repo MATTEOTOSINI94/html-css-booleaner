@@ -15,7 +15,10 @@ header{
     left: 0;
     bottom: 40%;
     }
-
+.didascaliapic{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 #Lightblu{
     color: lightskyblue;
     }
@@ -45,4 +48,28 @@ thead{
 .tablecusto{
     background: rgba(0, 214, 252, 0.747);
     }
- 
+    .PicFooter{
+        margin: 0px;
+        background-image: url(img/monitor.jpg);
+        background-repeat: no-repeat;
+        color: #FFFFFF;
+        background-color: red;
+        font-size: 120%;
+        font-weight: normal;
+        line-height: 50px;
+        width: 240px;
+        height: 200px;
+      }
+
+      .Picfooter2{
+        margin: 0px;
+        background-image: url(img/graph.jpg);
+        background-repeat: no-repeat;
+        color: #FFFFFF;
+        background-color: red;
+        font-size: 120%;
+        font-weight: normal;
+        line-height: 50px;
+        width: 240px;
+        height: 200px;
+      }
