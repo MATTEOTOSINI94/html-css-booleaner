@@ -1,0 +1,48 @@
+
+header{
+    background:  rgba(0, 137, 255, 0.7);
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    width: auto;
+    height:100px;
+    position: relative;
+    }
+
+.Logo{
+    width: 10%;
+    height: 20%;   
+    position: absolute;
+    left: 0;
+    bottom: 40%;
+    }
+
+#Lightblu{
+    color: lightskyblue;
+    }
+.colorgiallo{
+    background:#FFFF00; }
+
+ul {
+    padding-inline-start: 10px;
+    } 
+
+#custom{
+    border-collapse: collapse;
+    
+  }
+
+thead{
+    text-align: left;
+    background: royalblue;
+    color: white;
+    }
+
+    th{
+        width: 500px;
+        height: auto;
+    }
+
+.tablecusto{
+    background: rgba(0, 214, 252, 0.747);
+    }
+ 
